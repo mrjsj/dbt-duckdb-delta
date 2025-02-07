@@ -4,7 +4,7 @@
         format = 'delta',
         plugin = 'delta',
         mode = 'overwrite',
-        location = "./data/my_destination_table_2",
+        location = "./data/my_destination_table_1",
     )    
 }}
 
