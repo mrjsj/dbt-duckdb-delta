@@ -85,7 +85,7 @@ venv.bak/
 venv/
 wheels/
 spec.json
-data
+
 tmp*/
 **/.DS_Store
 **/.evidence
