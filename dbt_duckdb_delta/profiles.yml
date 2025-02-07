@@ -1,0 +1,11 @@
+dbt_duckdb_delta:
+  target: dev
+  
+  outputs:
+    dev:
+      type: duckdb
+      path: ':memory:'
+      extensions:
+        - delta
+      plugins:
+        - module: plugins.delta

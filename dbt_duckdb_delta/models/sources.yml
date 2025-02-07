@@ -1,0 +1,8 @@
+sources:
+
+  - name: landing
+    meta: 
+      external_location: "delta_scan('./data/{name}')"
+    tables:
+      - name: my_source_table_1
+      - name: my_source_table_2
