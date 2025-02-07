@@ -8,7 +8,6 @@
 *.log
 *.manifest
 *.mo
-*.parquet
 *.pot
 *.py,cover
 *.py[cod]
